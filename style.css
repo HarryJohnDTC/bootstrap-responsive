@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+.border-dashed {
+    border: 1px dashed #0c57c9; 
+}
+.border-black {
+    border: solid 2px black;
+}   
